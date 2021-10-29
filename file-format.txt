@@ -1,0 +1,6 @@
+{
+  "api-key": key here,
+  "steamid": steam id,
+  "shared_secret": share,
+  "identity_secret": secret
+}
